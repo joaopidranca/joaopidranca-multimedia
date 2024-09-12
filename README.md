@@ -1,2 +1,2 @@
 # joaopidranca-multimedia
- multimedia for joaopidranca website
+ multimedia assets for joaopidranca website
